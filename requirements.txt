@@ -8,3 +8,5 @@ albumentations==0.5.2
 numpy
 beautifulsoup4
 scikit-image
+h5py
+PyYAML==5.1
